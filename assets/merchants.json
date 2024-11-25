@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "name": "Tech Store",
+        "category": "Electronics",
+        "contact": "support@techstore.com"
+    },
+    {
+        "id": "2",
+        "name": "Book Haven",
+        "category": "Books",
+        "contact": "info@bookhaven.com"
+    }
+]

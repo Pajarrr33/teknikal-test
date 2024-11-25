@@ -1,0 +1,22 @@
+[
+  {
+    "customer": "fajar",
+    "level": "info",
+    "msg": "user has been logged in",
+    "time": "2024-11-25T18:56:55+07:00"
+  },
+  {
+    "amount": 200,
+    "customer": "fajar",
+    "level": "info",
+    "merchant": "Seonjana Bakery",
+    "msg": "user has been paid",
+    "time": "2024-11-25T18:57:09+07:00"
+  },
+  {
+    "customer": "fajar",
+    "level": "info",
+    "msg": "user has been logged out",
+    "time": "2024-11-25T18:57:23+07:00"
+  }
+]
